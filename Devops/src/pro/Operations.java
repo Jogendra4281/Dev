@@ -17,7 +17,8 @@ public class Operations {
 	}
 	public static void sub(int a,int b)
 	{
-		// this should be done sai
+		// this should be done sai 
+		System.out.println(a-b);
 	}
 	public static void mul(int a,int b)
 	{
